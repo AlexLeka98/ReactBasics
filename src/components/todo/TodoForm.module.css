@@ -1,0 +1,44 @@
+
+.formStyle{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width:100%;
+    padding:0px 20px;
+    background-color: #006e67;
+    height:80px;
+    box-sizing: border-box;
+    border-bottom: 1px solid white;
+}
+
+input{
+    font-size: 22px;
+    color:#ffffff;
+    background-color:#677a79;
+    width:80%;
+    padding:10px 10px;
+    border-radius:10px;
+    border:none;
+    
+}
+
+input:focus{
+    outline-width: 0;
+    background-color:#879e9d;
+    color:black;
+}
+
+button{
+    font-size:18px;
+    font-weight: 600;
+    margin-right:10px;
+    padding:10px 36px;
+    border:none;
+    border-radius: 10px;
+    background-color: #4aa5da;
+}
+
+button:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+}

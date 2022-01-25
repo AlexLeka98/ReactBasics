@@ -1,0 +1,50 @@
+
+.ulTodoListStyle{
+    list-style-type:none;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+/* ul li {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width:100%;
+    padding:0px 20px;
+    background-color: #006e67;
+    height:80px;
+    box-sizing: border-box;
+}
+
+ul li p {
+    font-size: 25px;
+    color:#ffffff;
+    width:90%;
+    padding:10px 10px;
+    border-radius:10px;
+}
+
+
+ul li div{
+    display: flex;
+    align-items: center;
+    margin-left:20px;
+}
+
+ul li div button {
+    font-size:15px;
+    font-weight: 600;
+    margin-right:10px;
+    padding:10px 26px;
+    border:none;
+    border-radius: 10px;
+    background-color: #4aa5da;
+}
+
+ul li div button:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+} */

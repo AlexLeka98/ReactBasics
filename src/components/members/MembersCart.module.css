@@ -1,0 +1,15 @@
+.cartContainer{
+    width:60%;
+    min-width: 800px;
+    background-color:rgba(0, 0, 0, 0.801);
+    padding:30px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    min-height: 400px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top:25%;
+}
+

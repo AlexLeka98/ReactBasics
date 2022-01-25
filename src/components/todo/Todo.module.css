@@ -1,0 +1,9 @@
+.todoContainer{
+    margin:0 auto;
+    margin-top:200px;
+    width:800px;
+    padding:10px;
+    border-radius: 10px;
+    background-color:#006e67 ;
+    margin-bottom: 50vh;
+}

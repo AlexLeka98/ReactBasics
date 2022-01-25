@@ -1,0 +1,20 @@
+.inputStyle{
+    display: flex;
+    flex-direction: column;
+}
+
+.inputStyle label{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color:#ffffff;
+}
+
+.inputStyle input{
+    height:30px;
+    border:none;
+    border-radius: 5px;
+    font-size:20px;
+    padding-left:10px;
+    margin:0px 0px 25px 0px;
+}

@@ -1,0 +1,12 @@
+.member{
+    display: flex;
+    justify-content: space-around;
+    color:white;
+    margin:10px 0px;
+    padding-bottom:20px;
+    border-bottom: 1px solid white;
+}
+
+.member h1 {
+    margin: 0;
+}

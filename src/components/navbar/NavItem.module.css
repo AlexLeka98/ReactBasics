@@ -1,0 +1,15 @@
+.listItem{
+    color:white;
+    list-style-type:none;
+    /* margin-right:30px; */
+    margin:0px 20px;
+}
+
+p{
+    margin:0
+}
+
+p:hover{
+    cursor: pointer;
+    color:#b9b8b8;
+}
